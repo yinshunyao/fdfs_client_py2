@@ -1,3 +1,10 @@
+
+本示例仅支持python2，实现了FastFDS数据库文件上传和删除功能
+
+fdfs_client_linux 引用第三方库，大侠的github地址：https://github.com/hay86
+fdfs_client_win 网上收集
+
+功能说明
 1、放置需要上传的文件到upload文件夹下
 2、填写需要删除的文件路径到delete.list文件中
 3、保证PC与存储服务器和存储节点通讯正常
