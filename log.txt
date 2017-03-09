@@ -1,0 +1,11 @@
+./temp//8.7.49.10.mp4 save as f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFhzU-GAMMAWAJPqL047Q_o.10.mp4
+./temp//8.7.49.10.mp4 save as f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFhzVq6AO4GoAJPqL047Q_o.10.mp4
+./upload//SmartInfo.ini 保存为 f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFh0huaASKEdAAAAg0W-y3I007.ini
+./upload//SogouPinyin.ini 保存为 f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFh0huaABxvoAAAG-bEgfB4038.ini
+./upload//version.ini 保存为 f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFh0huaAKAatAAAAAAAAAAA071.ini
+删除文件f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFh0huaASKEdAAAAg0W-y3I007.ini成功
+删除文件f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFh0huaABxvoAAAG-bEgfB4038.ini成功
+删除文件f54b358c5d6bb0515f542dcbf43f0b4c/group1/M00/00/A7/CAcbCFh0huaAKAatAAAAAAAAAAA071.ini成功
+./upload//!!!!!!!readme!!!!!!!.txt 保存为 fbc3ea6dc7455db5e01f76d1526d5369/group1/M00/03/90/wKgBtFh5A96ASMZZAAAAyfThwIM126.txt
+./upload//171359.jpg 保存为 f201dc10aeefe3bff2dd82f6d80b0f9e/group1/M00/00/00/Ch_juVjBHOuAd0vaAAA3QZeNELU499.jpg
+./upload//temp.jpg 保存为 f201dc10aeefe3bff2dd82f6d80b0f9e/group1/M00/00/00/Ch_juVjBHOuAVEvsAAA3QZeNELU861.jpg
